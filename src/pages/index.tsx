@@ -95,14 +95,6 @@ const META: Record<
     ],
     solutions: ["https://youtu.be/4np2XHjblu4", "https://youtu.be/6CJAUNp_7XA"],
   },
-  "4B": {
-    w: 40,
-    h: 23,
-    hints: [
-      "Can you curve an existing light beam using the white light after the platform goes right to trigger the gray sensor, allowing you to get through?",
-    ],
-    solutions: ["https://youtu.be/Fi2V49DhXLA"],
-  },
 };
 
 function Level({ id }: { id: string }) {
